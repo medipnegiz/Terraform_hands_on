@@ -3,8 +3,10 @@ Terraform Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awes
 <hr>
 
 <p align="center">
-    <img alt="Terraform" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Terraform_Logo.svg/512px-Terraform_Logo.svg.png?20181016201549" height="190" width="640">
+    <img alt="Terraform" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Terraform_Logo.svg/512px-Terraform_Logo.svg.png?20181016201549" height="190" width="700">
 </p>
 <hr>
 
 ## Index 📜
+
+### 🔖 
