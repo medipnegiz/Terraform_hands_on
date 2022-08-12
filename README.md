@@ -3,8 +3,11 @@ Terraform Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awes
 <hr>
 
 <p align="center">
-    <img alt="Terraform" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Terraform_Logo.svg/512px-Terraform_Logo.svg.png?20181016201549" height="190" width="640">
+    <img alt="Terraform" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Terraform_Logo.svg/512px-Terraform_Logo.svg.png?20181016201549" height="190" width="800">
 </p>
 <hr>
 
 ## Index 📜
+
+### 🔖 [Installation_Basic_Operations](https://github.com/medipnegiz/terraform_hands_on/tree/main/Installation_Basic_Operations)
+Purpose of the this hands-on training is to give students the knowledge of basic operations in Terraform.
