@@ -11,3 +11,5 @@ Terraform Hands On Studies  [![Awesome](https://cdn.rawgit.com/sindresorhus/awes
 
 ### 🔖 [Installation_Basic_Operations](https://github.com/medipnegiz/terraform_hands_on/tree/main/Installation_Basic_Operations)
 Purpose of the this hands-on training is to give students the knowledge of basic operations in Terraform.
+
+### 🔖 [Terraform_Commands_Varables_Conditonals_Loops]()
