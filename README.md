@@ -16,3 +16,5 @@ Purpose of the this hands-on training is to give students the knowledge of basic
 Purpose of the this hands-on training is to give students the knowledge of terraform commands, variables, conditionals and loops in Terraform.
 
 ### 🔖[Data_Sources_Remote_Backend_Provisioners](https://github.com/medipnegiz/terraform_hands_on/tree/main/Data_Sources_Remote_Backend_Provisioners)
+Purpose of the this hands-on training is to give students the knowledge of terraform data sources, remote backend and provisioners in Terraform.
+
