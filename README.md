@@ -21,4 +21,4 @@ Purpose of the this hands-on training is to give students the knowledge of terra
 ### 🔖 [Modules_Import](https://github.com/medipnegiz/terraform_hands_on/tree/main/Modules_Import)
 Purpose of the this hands-on training is to give students the knowledge of terraform modules and import in Terraform.
 
-### 🔖 [Terraform_Commands_Variables_Conditonals_Loops]()
+### 🔖 [Terraform_Commands_Variables_Conditonals_Loops](https://github.com/medipnegiz/terraform_hands_on/tree/main/Terraform_Commands_Variables_Conditonals_Loops)
